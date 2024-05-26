@@ -40,12 +40,15 @@ And boom, all done
 # Credits
 
 VeritasCGD -> Creating the Scripts, and allowing me to dev along side him.
+
 Tom Schimansky -> [For creating customtkiner, and making this possible](https://github.com/TomSchimansky/CustomTkinter)
+
 Brent Vollebregt -> [For maintaining Auto-Py-To-Exe](https://pypi.org/project/auto-py-to-exe/)
 
 # Donations
 
 You can donate to me here :
 > CashApp : $zKiwiko ( American Residents )
+
 > BuyMeACoffee : https://buymeacoffee.com/kiwiko ( International Residents )
 
