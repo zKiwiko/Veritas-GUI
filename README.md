@@ -35,7 +35,7 @@ as you wont get this error if you choose "console based", if you dont want the c
 
 After so, go back into CMD and type `pip show customtkinter` and copy that directory.
 In Auto-Py click the "Additional Files" drop down menu, and click "Add folder" and paste
-the directory into the search bar at the bottom. 
+the directory into the search bar at the bottom, then at the end of that directory add `/customtkinter` so it doesnt install every pip item you have into the output. 
 
 Now click "CONVERT .PY TO .EXE" and wait.
 
