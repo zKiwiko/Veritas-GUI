@@ -4,14 +4,20 @@ Veritas Script Generation and Anti Recoil config sharing.
 # How To Use
 
 Simply run the `veritas.exe` file to open the GUI.
+
 In the Anti Recoil tab you can edit the Anti Recoil settings for every operator and their weapons.
+
 In the Mods tab, you can change certain values of mods or faster updating, or convinience. Same with toggling mods on the right side of that tab.
+
 In the Layout tab, you can change the default Layout the script will be compiled with. Same with the Profiles tab.
 
 In the Settigns tab, you can Export, Import, and Reset your Anti Recoil Configuration. Exported configs will be named "exported_config.py"
 and must remain this way when sharing/Importing.
 
 If youre going to import a config, make sure to export your own as a back up.
+
+To actually get the scripts after setting up your values/toggled mods. Simply go to the Anti-Recoil tab and press "Generate". This will generate 2 scripts.
+"Attackers" and "Defenders".gpc . Drag them into Zen Studio and flash them to your Cronus Zen.
 
 # Compiling from Source
 
