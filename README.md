@@ -1,4 +1,4 @@
-# Veritas-GUI
+# Veritas GUI
 Veritas Script Generation and Anti Recoil config sharing.
 
 # How To Use
