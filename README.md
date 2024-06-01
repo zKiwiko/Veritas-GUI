@@ -58,3 +58,8 @@ You can donate to me here :
 
 > BuyMeACoffee : https://buymeacoffee.com/kiwiko ( International Residents )
 
+# Disclaimer
+
+I am not responsible for any type of harmful/normal action done to your Ubisoft, Microsoft, or Sony account. This tool is strictly for testing my abilities as a Developer, as well as convience when it comes to 
+Cronus Zen Scripting. I am not affiliated with Ubisoft, Microsoft, or Sony in any way shape or form. Using this tool you agree to the risks of punishment done to your account from these companies.
+
