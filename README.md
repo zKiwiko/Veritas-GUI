@@ -6,6 +6,7 @@ Veritas Script Generation and Anti Recoil config sharing.
 Simply run the `veritas.exe` file to open the GUI.
 
 In the Anti Recoil tab you can edit the Anti Recoil settings for every operator and their weapons.
+Use The Sliders and the drop down menu to input your Values.
 
 In the Mods tab, you can change certain values of mods or faster updating, or convinience. Same with toggling mods on the right side of that tab.
 
